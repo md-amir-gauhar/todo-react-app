@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Todo App built using React [React Hooks] and firebase...
+check it on: https://todo-app-93ce5.web.app
+
 ## Available Scripts
 
 In the project directory, you can run:
